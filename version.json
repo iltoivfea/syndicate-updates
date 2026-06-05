@@ -1,7 +1,7 @@
 {
-  "version": "1.1.4",
-  "downloadUrl": "https://github.com/iltoivfea/syndicate-updates/raw/main/Syndicate_1.1.4.exe",
+  "version": "1.1.5",
+  "downloadUrl": "https://github.com/iltoivfea/syndicate-updates/raw/main/Syndicate_1.1.5.exe",
   "changelog": [
-    "引入動態快取排除機制以實現秒級更新通知"
+    "新增「問題與意見回饋單」功能"
   ]
 }
