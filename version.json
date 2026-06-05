@@ -1,10 +1,10 @@
 {
-  "version": "1.1.9",
-  "downloadUrl": "https://github.com/iltoivfea/syndicate-updates/raw/main/Syndicate_1.1.9.exe",
+  "version": "1.1.10",
+  "downloadUrl": "https://github.com/iltoivfea/syndicate-updates/raw/main/Syndicate_1.1.10.exe",
   "changelog": [
+    "限制股數、單價、投入金額不能為負數",
     "支援使用 Google 帳號一鍵登入與註冊",
     "新增 Google 雲端硬碟自動背景備份與還原功能",
-    "優化 Windows 端瀏覽器外部連結開啟機制",
     "修正驗證過程卡死無回應的問題"
   ]
 }
