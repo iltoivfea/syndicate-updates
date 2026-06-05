@@ -1,7 +1,9 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "downloadUrl": "https://github.com/iltoivfea/SYNDICATE/releases",
   "changelog": [
-    "初始化版本"
+    "整合了 Electron 與 Tauri 雙桌面端支援",
+    "新增自動版更機制與通知系統",
+    "優化與調整了 PDF 損益表匯出樣式與排版"
   ]
 }
