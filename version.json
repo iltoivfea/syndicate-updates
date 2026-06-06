@@ -1,10 +1,11 @@
 {
-  "version": "1.1.11",
-  "downloadUrl": "https://github.com/iltoivfea/syndicate-updates/raw/main/Syndicate_1.1.11.exe",
+  "version": "1.1.14",
+  "downloadUrl": "https://github.com/iltoivfea/syndicate-updates/raw/main/Syndicate_1.1.14.exe",
   "changelog": [
-    "限制股數、單價、投入金額不能為負數",
-    "支援使用 Google 帳號一鍵登入與註冊",
-    "新增 Google 雲端硬碟自動背景備份與還原功能",
-    "修正驗證過程卡死無回應的問題"
+    "新使用者開啟軟體時，預設不再自動建立範例專案，以乾淨空白介面呈現",
+    "支援美金 (USD) 與台幣 (TWD) 雙幣別專案設定與自動匯率折算",
+    "優化 Google 雲端同步：簡化憑證設定、完善 API 錯誤回報訊息",
+    "新增訪客模式本機資料匯入與合併功能，防範帳號登入後資料衝突",
+    "修復啟動視窗 (Splash screen) 的系統右側滾動條問題"
   ]
 }
